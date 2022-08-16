@@ -11,7 +11,17 @@
       ]
     }
   },
-  "externals": {},
+  "externals": {
+    "jquery": {
+      "path": "https://code.jquery.com/jquery-3.6.0.min.js",
+      "globalName": "jquery"
+    },
+    "bootstrap": {
+      "path": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
+      "globalName": "bootstrap",
+      "globalDependencies": ["jquery"]
+    }
+  },
   "localizedResources": {
     "NoJsWebPartWebPartStrings": "lib/webparts/noJsWebPart/loc/{locale}.js"
   }
