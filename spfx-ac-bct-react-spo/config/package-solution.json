@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-ac-bct-react-spo-client-side-solution",
+    "id": "e97596ef-fb57-4542-a0f1-8e45179fcb8d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-ac-bct-react-spo description"
+      },
+      "longDescription": {
+        "default": "spfx-ac-bct-react-spo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-ac-bct-react-spo Feature",
+        "description": "The feature that activates elements of the spfx-ac-bct-react-spo solution.",
+        "id": "d7a8ba13-d530-4624-a158-da68b0974c2c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-ac-bct-react-spo.sppkg"
+  }
+}

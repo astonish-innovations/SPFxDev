@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ext-form-react-spo",
+    "libraryId": "a9f3940c-e714-4d9c-9882-25f14c468847",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ext-form-react-spo",
+    "solutionShortDescription": "spfx-ext-form-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FormCustomizer"
+  }
+}

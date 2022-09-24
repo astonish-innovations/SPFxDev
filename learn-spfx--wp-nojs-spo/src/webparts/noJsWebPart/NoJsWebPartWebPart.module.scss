@@ -1,7 +1,12 @@
 @import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
 
-.container {
+.myContainer {
   width: auto;
+}
+
+.boldItalicText {
+  font-style: italic;
+  font-weight: 700;
 }
 
 :global {

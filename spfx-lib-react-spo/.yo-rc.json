@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-lib-react-spo",
+    "libraryId": "91ed4905-2a05-4839-8070-aa57a7755925",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-lib-react-spo",
+    "solutionShortDescription": "spfx-lib-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

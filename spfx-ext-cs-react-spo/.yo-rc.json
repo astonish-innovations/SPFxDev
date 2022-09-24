@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ext-cs-react-spo",
+    "libraryId": "34c3d990-e0b1-4d62-a39c-9af2118232c8",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ext-cs-react-spo",
+    "solutionShortDescription": "spfx-ext-cs-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}

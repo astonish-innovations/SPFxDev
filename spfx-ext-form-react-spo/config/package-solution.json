@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-ext-form-react-spo-client-side-solution",
+    "id": "a9f3940c-e714-4d9c-9882-25f14c468847",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-ext-form-react-spo description"
+      },
+      "longDescription": {
+        "default": "spfx-ext-form-react-spo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-ext-form-react-spo Feature",
+        "description": "The feature that activates elements of the spfx-ext-form-react-spo solution.",
+        "id": "272b8334-d41a-465d-bea8-983c96d64076",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-ext-form-react-spo.sppkg"
+  }
+}

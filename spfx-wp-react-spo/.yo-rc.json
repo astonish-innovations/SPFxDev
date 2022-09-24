@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-wp-react-spo",
+    "libraryId": "fe0e7173-319a-4f7a-bcf8-e7ebb12dd686",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-wp-react-spo",
+    "solutionShortDescription": "spfx-wp-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

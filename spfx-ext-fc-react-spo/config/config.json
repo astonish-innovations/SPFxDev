@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "my-field-cust-field-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/myFieldCust/MyFieldCustFieldCustomizer.js",
+          "manifest": "./src/extensions/myFieldCust/MyFieldCustFieldCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MyFieldCustFieldCustomizerStrings": "lib/extensions/myFieldCust/loc/{locale}.js"
+  }
+}

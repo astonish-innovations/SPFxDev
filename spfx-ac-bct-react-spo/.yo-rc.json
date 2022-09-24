@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ac-bct-react-spo",
+    "libraryId": "e97596ef-fb57-4542-a0f1-8e45179fcb8d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ac-bct-react-spo",
+    "solutionShortDescription": "spfx-ac-bct-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "adaptiveCardExtension",
+    "aceTemplateType": "Basic"
+  }
+}

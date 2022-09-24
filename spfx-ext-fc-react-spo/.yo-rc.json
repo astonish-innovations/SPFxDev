@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ext-fc-react-spo",
+    "libraryId": "0b038798-3af2-4427-a333-c68a2d490ef5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ext-fc-react-spo",
+    "solutionShortDescription": "spfx-ext-fc-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FieldCustomizer"
+  }
+}

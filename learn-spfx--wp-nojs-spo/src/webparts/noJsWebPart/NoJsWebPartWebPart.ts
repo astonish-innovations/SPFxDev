@@ -25,9 +25,12 @@ export default class NoJsWebPartWebPart extends BaseClientSideWebPart<INoJsWebPa
   public render(): void {
     let cssURL = "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css";
     SPComponentLoader.loadCss(cssURL);
+
+    // let scriptURL = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js";
+    // SPComponentLoader.loadScript(scriptURL);
     this.domElement.innerHTML = `
-      <div className={${styles.container}}>
-      <h1 id="helloText"></h1>
+      <div class=${styles.myContainer}>
+      <h1 id="helloText" class=${styles.boldItalicText}></h1>
       <main>
         <div class="container col-xl-10 col-xxl-8 px-4 py-5">
           <div class="row align-items-center g-lg-5 py-5">
@@ -50,7 +53,7 @@ export default class NoJsWebPartWebPart extends BaseClientSideWebPart<INoJsWebPa
                     <input type="checkbox" value="remember-me"> Remember me
                   </label>
                 </div>
-                <button class="w-100 btn btn-lg btn-primary">Sign up</button>
+                <button class="w-100 btn btn-lg btn-primary" >Sign up</button>
                 <hr class="my-4">
                 <small class="text-muted">By clicking Sign up, you agree to the terms of use.</small>
               </form>

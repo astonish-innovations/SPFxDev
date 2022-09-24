@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ac-ict-react-spo",
+    "libraryId": "ebfb4408-a28d-45a9-a18b-5e3178b07469",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ac-ict-react-spo",
+    "solutionShortDescription": "spfx-ac-ict-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "adaptiveCardExtension",
+    "aceTemplateType": "Image"
+  }
+}

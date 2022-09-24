@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-wp-react-spo-client-side-solution",
+    "id": "fe0e7173-319a-4f7a-bcf8-e7ebb12dd686",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-wp-react-spo description"
+      },
+      "longDescription": {
+        "default": "spfx-wp-react-spo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-wp-react-spo Feature",
+        "description": "The feature that activates elements of the spfx-wp-react-spo solution.",
+        "id": "8c37afed-5e12-4ad2-bdfa-86c6020449fb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-wp-react-spo.sppkg"
+  }
+}

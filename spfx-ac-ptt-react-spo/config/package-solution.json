@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-ac-ptt-react-spo-client-side-solution",
+    "id": "3151e7d2-4df0-4d4a-a341-046c2dea1cd4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-ac-ptt-react-spo description"
+      },
+      "longDescription": {
+        "default": "spfx-ac-ptt-react-spo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-ac-ptt-react-spo Feature",
+        "description": "The feature that activates elements of the spfx-ac-ptt-react-spo solution.",
+        "id": "9f0d9e7c-116d-406c-b5ce-25b42df03ab3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-ac-ptt-react-spo.sppkg"
+  }
+}

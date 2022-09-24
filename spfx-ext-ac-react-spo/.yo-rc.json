@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-ext-ac-react-spo",
+    "libraryId": "2023a1a9-671b-45c4-aa7b-3110e928853b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ext-ac-react-spo",
+    "solutionShortDescription": "spfx-ext-ac-react-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
